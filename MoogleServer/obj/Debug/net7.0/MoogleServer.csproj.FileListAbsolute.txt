@@ -1,0 +1,315 @@
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/proyect-main/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Beta/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/newP/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/VD mal/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/NewVariation/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/Vectores Documentos Calculados/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Progress/El tanque/Basic/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/appsettings.Development.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/appsettings.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleServer.staticwebassets.runtime.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleServer
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleServer.deps.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleServer.runtimeconfig.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleEngine.dll
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/bin/Debug/net7.0/MoogleEngine.pdb
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.AssemblyReference.cache
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfoInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.AssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cache
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.RazorAssemblyInfo.cs
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets.pack.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets.build.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/staticwebassets.development.json
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/scopedcss/bundle/MoogleServer.styles.css
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.csproj.CopyComplete
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/refint/MoogleServer.dll
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.pdb
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/MoogleServer.genruntimeconfig.cache
+/home/uhc121/Documents/C#/Proyecto/Actual/MoogleServer/obj/Debug/net7.0/ref/MoogleServer.dll
