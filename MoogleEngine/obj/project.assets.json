@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/uhc121/Documents/C#/Proyecto/Actual/MoogleEngine/MoogleEngine.csproj",
+      "projectUniqueName": "/home/uhc121/Documents/Ciber/C#/Proyecto/Actual/MoogleEngine/MoogleEngine.csproj",
       "projectName": "MoogleEngine",
-      "projectPath": "/home/uhc121/Documents/C#/Proyecto/Actual/MoogleEngine/MoogleEngine.csproj",
+      "projectPath": "/home/uhc121/Documents/Ciber/C#/Proyecto/Actual/MoogleEngine/MoogleEngine.csproj",
       "packagesPath": "/home/uhc121/.nuget/packages/",
-      "outputPath": "/home/uhc121/Documents/C#/Proyecto/Actual/MoogleEngine/obj/",
+      "outputPath": "/home/uhc121/Documents/Ciber/C#/Proyecto/Actual/MoogleEngine/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/uhc121/.nuget/NuGet/NuGet.Config"

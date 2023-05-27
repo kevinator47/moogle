@@ -13,25 +13,45 @@ public class Document
         this.route = route ;
     }
 
-    public void GetScore(Vector Vq)
+    public void GetScore(Vector Vq , Term[] terms)
     {
-        this.score = Vq * this.Vd ;
+        if(CheckIEOperators(terms))
+            this.score = Vq * this.Vd ;
+        
+        else
+            this.score = 0.0 ; // no se si es necesario pero por si acaso
     }
+
+    private bool CheckIEOperators(Term[] terms)
+    {
+        for(int i = 0 ; i < terms.Length ; i ++)
+        {
+            if(terms[i].Mod.Contains('^') && !this.Vd.v.ContainsKey(terms[i].Text))
+                return false ;
+            
+            else if(terms[i].Mod.Contains('!') && this.Vd.v.ContainsKey(terms[i].Text))
+                return false ;
+        }
+        return true ;
+    } 
 
     public string GetTitle()
     {
         return this.route.Substring(this.route.LastIndexOf("/") + 1);
     }
 
-    public string GetSnippet(string[] query)
+    public string GetSnippet(Term[] query)
     {
         string pointerword = "" ; // la palabra mas relevalante del doc que se va a buscar para mostrar en el snippet
         string snipe = "" ;  // string que se devuelve 
         
         double maxweigth = 0 ; // para escoger la palabra mas relevante en el doc
         
-        foreach (string word in query)
+        for(int i = 0 ; i < query.Length ; i++)
         {
+            string word = query[i].Text ;
+
+
             if(Vd.v.ContainsKey(word) && Vd[word] > maxweigth )
             {
                 maxweigth = Vd[word];
