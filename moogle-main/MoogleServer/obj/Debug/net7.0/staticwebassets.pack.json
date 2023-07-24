@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/obj/Debug/net7.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css",
+      "PackagePath": "staticwebassets/MoogleServer.bundle.scp.css"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/uhc121/Documents/Primero/Programacion/MyProyects/Moogle/Repository/practicasLaborales/moogle-main/MoogleServer/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.MoogleServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.MoogleServer.props",
+      "PackagePath": "build\\MoogleServer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MoogleServer.props",
+      "PackagePath": "buildMultiTargeting\\MoogleServer.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MoogleServer.props",
+      "PackagePath": "buildTransitive\\MoogleServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
